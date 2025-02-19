@@ -3,7 +3,8 @@
 Headline:  
 🚀 Crow Coin — The Future of Financial Transfers  
 
-Subheadline:  
+Subheadlin![photo_2025-02-19_17-24-56](https://github.com/user-attachments/assets/a40a0d2d-c2e9-44b0-ac49-0847dd7486b5)
+e:  
 We’re creating a new era of instant, secure, and affordable international payments. Join the revolution!  
 
 ---
@@ -17,7 +18,8 @@ Crow Coin is more than just a cryptocurrency. It’s a global ecosystem designed
 
 Our team consists of professionals with years of experience in blockchain, fintech, and international payments. We believe that finance should be accessible to everyone, regardless of geography.  
 
----
+---![photo_2025-02-19_13-19-19](https://github.com/user-attachments/assets/e66f4533-22af-49af-a9de-137e3339350b)
+
 
 ### 3. Our Goals  
 Headline:  
@@ -35,7 +37,8 @@ Text:
 Headline:  
 How It All Began  
 
-Text:  
+Text:  ![photo_2025-02-19_13-19-20](https://github.com/user-attachments/assets/fe7fd5d4-4759-4dd3-823f-7f62ac7f9226)
+
 Crow Coin was founded in 2023 by a group of enthusiasts who faced challenges with international transfers. High fees, long processing times, and usability issues inspired us to create Crow Coin.  
 
 From the very beginning, we set an ambitious goal: to make financial transfers as simple as sending a message. Today, we’re proud that Crow Coin is already being used in dozens of countries, and we continue to grow.  
