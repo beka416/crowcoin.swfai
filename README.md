@@ -1,4 +1,10 @@
+Telegram
+https://t.me/iW82XoARu3RjN2E0
+https://x.com/crow_swf?s=11
 
+X (formerly Twitter) (https://x.com/crow_swf?s=11)
+CROW (@CROW_swf) on X
+Team Crow Coin on Solana welcomes you. Join us on telegram: https://t.co/U20qJJISni
 ### 1. Homepage (Hero Section)  
 Headline:  
 🚀 Crow Coin — The Future of Financial Transfers  
