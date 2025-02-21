@@ -142,3 +142,14 @@ We use advanced encryption and data protection technologies.
 ### 11. Contact Us  
 Headline:  
 Get in Touch  
+
+### 12. Call to Action (CTA)  
+Headline:  
+Join the Revolution!  
+
+Text:  
+Start using Crow Coin today and experience the future of finance.  
+
+Buttons:  
+— Sign Up  
+— Download the App
